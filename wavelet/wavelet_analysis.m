@@ -227,7 +227,7 @@ level_1 = high_pass_1_level_upsampled_tosum + low_pass_1_level_upsampled_tosum;
 reconstructed_signal = level_1;
 
 figure, plot(1:1:target_length, non_stationary_signal), hold on, plot(1:1:target_length, reconstructed_signal);
-legend('initial','reconstructed'), grid;
+legend('original','reconstructed'), grid;
 
 
 %% Audio comparison
