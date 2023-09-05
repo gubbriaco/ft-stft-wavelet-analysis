@@ -25,6 +25,7 @@ A repository containing scripts and live scripts in MATLAB related to Fourier Tr
 | ![lvl4-lowpass](https://github.com/gubbriaco/ft-stft-wavelet-analysis/assets/101352023/e7ba8eb8-3b8d-4283-9eac-790edab3ae87) | ![lvl4-highpass](https://github.com/gubbriaco/ft-stft-wavelet-analysis/assets/101352023/1b08c3ae-1528-43cc-8947-9d50053d6856) |
 
 ## Signal Reconstruction
-![reconstructed-original](https://github.com/gubbriaco/ft-stft-wavelet-analysis/assets/101352023/8bc1a892-73c0-4f19-b53b-be2490719d87)
+![reconstructed-original](https://github.com/gubbriaco/ft-stft-wavelet-analysis/assets/101352023/06ec4d31-2fdc-490f-9c7e-f375724ac7ce)
+
 
 
